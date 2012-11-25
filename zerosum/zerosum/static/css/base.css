@@ -1,0 +1,22 @@
+html,body{
+    min-width:1000px;
+}
+#site-wrap{
+    width:900px;
+    margin-left:auto;
+    margin-right:auto;
+}
+#nav-wrap{
+
+}
+.nav-bar{
+    list-style:none;
+    width:100%;
+    margin:0;
+    padding:0;
+}
+.nav-item{
+    float:left;
+    margin-left:1em;
+    margin-right:1em;
+}
